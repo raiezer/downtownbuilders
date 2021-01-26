@@ -89,7 +89,7 @@ img{
   text-transform: uppercase;
   font-family: "Raleway", sans-serif;
 }
-#home:hover,#about:hover,#service:hover,#contact:hover{
+#home:hover,#about:hover,#Service:hover,#contact:hover{
   color: #daa520;
 }
 .navbar-toggler span {
